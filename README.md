@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Static Badge" src="https://img.shields.io/badge/html-#E34F26">
+<img alt="html" src="https://img.shields.io/badge/html-#E34F26">
 
 <!--
 **yhg1024/yhg1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
