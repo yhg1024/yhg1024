@@ -18,19 +18,14 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-        <img src="https://img.shields.io/badge/Ajax-00758F?style=flat&logo=ajax&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
     </div>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
     </div>
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
     </div>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon aws&logoColor=white"> 
     </div>
     <div>
@@ -48,10 +43,6 @@
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/StarUML-7D57C1?style=flat&logo=staruml&logoColor=white">
     </div>
 </div><br>
 
