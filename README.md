@@ -1,4 +1,4 @@
-### Hi there 👋
+s### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3500&pause=3&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=welcome!✨)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 ## 📝 Learning
 <div style="display:flex; flex-direction:column;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhg1024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhg1024&layout=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 [![yhg1024 GitHub stats](https://github-readme-stats.vercel.app/api?username=yhg1024&include_all_commits=true&show_icons=true&theme=ambient_gradient)](https://github.com/yhg1024/github-readme-stats)
 
 </div>
