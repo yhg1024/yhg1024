@@ -8,7 +8,7 @@
 
 <br>
     
-## 💻 𝒪𝓃𝒸𝑒 𝐼'𝓋𝑒 𝒰𝓈𝑒𝒹
+## 💻 Tech Stack
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
