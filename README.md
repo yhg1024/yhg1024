@@ -5,6 +5,13 @@
 
 <div align="center"> 
 
+## 📝 Learning
+<div style="display:flex; flex-direction:column;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheez0909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![cheez0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheez0909&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/cheez0909/github-readme-stats)
+
+</div>
 
 <br>
     
