@@ -1,4 +1,4 @@
-s### Hi there 👋
+### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3500&pause=3&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=welcome!✨)](https://git.io/typing-svg)
 
